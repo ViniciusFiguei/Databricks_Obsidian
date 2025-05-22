@@ -74,7 +74,7 @@ Delta Lake brings ACID transactions and reliability to big data. Here are the ke
 - [[#Delta Table schema validation]]
 - [[#Schema evolution]]
 - [[#REORG and DROP COLUMN]]
-- [REGORF](#REORG and DROP COLUMN)
+- [REGORF](#REORG-and-DROP-COLUMN)
 ## Vacuum
 
 No **Databricks**, [VACUUM](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/delta-vacuum) é um comando usado para limpar arquivos obsoletos de tabelas **Delta Lake**, liberando espaço em disco.
